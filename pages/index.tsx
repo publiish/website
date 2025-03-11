@@ -100,7 +100,7 @@ export default function Home() {
               position: 'fixed',
               top: 'normal',
               right: 'normal',
-              zIndex: '2',
+              zIndex: 2,
             },
           }}
         >
